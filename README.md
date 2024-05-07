@@ -16,7 +16,7 @@ Hi, I'm Gustavo, a passionate individual who combines art and logic to craft web
 
 ## Featured Projects
 
-### [Portoflio]([link to repository](https://github.com/GusTiavo123/portfolio))
+### [Portoflio](https://github.com/GusTiavo123/portfolio)
 
 Personal web Porfolio
 
